@@ -9,10 +9,8 @@ $db = dbInit("mysql:host={$host};dbname={$dbname};charset=utf8", "dubhacks", "po
 $error_msg = "";
 
 if (!isset($_GET['search'])) {
-  $error_msg = <<<ERROR
-    <p>Please pass a search query</p>
-ERROR;
-  if (isset($_GET['filter'])) {
+
+  if (!isset($_GET['filter'])) {
 
   }
 }
