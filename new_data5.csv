@@ -1,0 +1,188 @@
+id,Class_Name,Median_Score,Average_Score_By_Class,Professor_Name,Quarter
+1,Aeronautics & Astronautics A A 101,4.8,4.8,Christopher Lum ,SU17
+2,Arts & Sciences A A 198,4.27,4.27,Christopher Lum ,AU17
+3,Aeronautics & Astronautics A A 210,3.67,2.5625,Dana Dabiri ,SP18
+4,Aeronautics & Astronautics A A 210,4.5,2.5625,Raymond Golingo ,SU17
+5,Aeronautics & Astronautics A A 210,0.94,2.5625,Robert Breidenthal ,WI18
+6,Aeronautics & Astronautics A A 210,1.14,2.5625,Robert Breidenthal ,AU17
+7,Aeronautics & Astronautics A A 260,2.94,3.305,Anna Sheppard ,SP18
+8,Aeronautics & Astronautics A A 260,3.67,3.305,Carl Knowlen ,SU17
+9,Aeronautics & Astronautics A A 301,3.32,3.32,Mitsuru Kurosaka ,SP18
+10,Aeronautics & Astronautics A A 302,2.95,2.95,Dana Dabiri ,WI18
+11,Aeronautics & Astronautics A A 310,4.71,4.71,James Hermanson ,AU17
+12,Aeronautics & Astronautics A A 311,0.53,0.53,Mohammad Soltani ,AU17
+13,Aeronautics & Astronautics A A 312,2.47,2.47,Kristi Morgansen ,WI18
+14,Aeronautics & Astronautics A A 320,3.18,3.18,Raymond Golingo ,AU17
+15,Aeronautics & Astronautics A A 321,3.84,3.84,James Hermanson ,WI18
+16,Aeronautics & Astronautics A A 322,4.22,4.22,James Hermanson ,SP18
+17,Aeronautics & Astronautics A A 331,4.23,4.23,Jinkyu Yang ,WI18
+18,Aeronautics & Astronautics A A 332,4.12,4.12,Jinkyu Yang ,SP18
+19,Aeronautics & Astronautics A A 395,4.7,4.7,Marco Salviato ,AU17
+20,Aeronautics & Astronautics A A 400,1.33,1.33,Mohammad Soltani ,WI18
+21,Aeronautics & Astronautics A A 402,4.2,4.2,Antonino Ferrante ,AU17
+22,Aeronautics & Astronautics A A 405,4.14,4.14,Uri Shumlak ,AU17
+23,Aeronautics & Astronautics A A 410,2.7,2.283333333,Eli Livne ,WI18
+24,Aeronautics & Astronautics A A 410,4,2.283333333,Kristi Morgansen ,WI18
+25,Aeronautics & Astronautics A A 410,2.5,2.283333333,Kristi Morgansen ,WI18
+26,Aeronautics & Astronautics A A 410,1.5,2.283333333,Kristi Morgansen ,WI18
+27,Aeronautics & Astronautics A A 410,2,2.283333333,Kristi Morgansen ,WI18
+28,Aeronautics & Astronautics A A 410,1,2.283333333,Kristi Morgansen ,WI18
+29,Aeronautics & Astronautics A A 411,2.88,3.054285714,Eli Livne ,SP18
+30,Aeronautics & Astronautics A A 411,4,3.054285714,Christopher Lum ,SP18
+31,Aeronautics & Astronautics A A 411,3,3.054285714,Adam Bruckner ,SP18
+32,Aeronautics & Astronautics A A 411,3,3.054285714,Behcet Acikmese ,SP18
+33,Aeronautics & Astronautics A A 411,4,3.054285714,Kristi Morgansen ,SP18
+34,Aeronautics & Astronautics A A 411,3,3.054285714,Adam Bruckner ,SP18
+35,Aeronautics & Astronautics A A 411,1.5,3.054285714,Christopher Lum ,SP18
+36,Aeronautics & Astronautics A A 419,4.46,4.46,Uri Shumlak ,WI18
+37,Aeronautics & Astronautics A A 420,3,2.625,Carl Knowlen ,WI18
+38,Aeronautics & Astronautics A A 420,2.25,2.625,Kristi Morgansen ,WI18
+39,Aeronautics & Astronautics A A 421,3.13,2.98,Carl Knowlen ,SP18
+40,Aeronautics & Astronautics A A 421,2.83,2.98,Kristi Morgansen ,SP18
+41,Aeronautics & Astronautics A A 430,4.66,4.66,Marco Salviato ,WI18
+42,Aeronautics & Astronautics A A 432,4.19,4.19,Jinkyu Yang ,AU17
+43,Aeronautics & Astronautics A A 440,1,1,Mohammad Soltani ,WI18
+44,Aeronautics & Astronautics A A 441,3.2,3.2,Christopher Lum ,SP18
+45,Aeronautics & Astronautics A A 447,3.31,3.225,Behcet Acikmese ,SP18
+46,Aeronautics & Astronautics A A 447,3.14,3.225,Behcet Acikmese ,AU17
+47,Aeronautics & Astronautics A A 448,3.75,3.75,Christopher Lum ,WI18
+48,Aeronautics & Astronautics A A 461,3.9,3.9,James Hermanson ,AU17
+49,Aeronautics & Astronautics A A 462,4.05,4.05,Adam Bruckner ,SP18
+50,Aeronautics & Astronautics A A 470,3.43,3.43,Susan Murphy ,AU17
+51,Aeronautics & Astronautics A A 498,0.91,3.386666667,Kristi Morgansen ,AU17
+52,Aeronautics & Astronautics A A 498,4.75,3.386666667,Justin Little ,AU17
+53,Aeronautics & Astronautics A A 498,4.5,3.386666667,Nathan Sniadecki ,SP18
+54,Aeronautics & Astronautics A A 504,3.33,3.33,Robert Breidenthal ,AU17
+55,Aeronautics & Astronautics A A 506,2.5,2.5,Dana Dabiri ,SP18
+56,Aeronautics & Astronautics A A 507,2.88,2.88,Dana Dabiri ,WI18
+57,Aeronautics & Astronautics A A 510,4,4,Unspecified Other ,AU17
+58,Aeronautics & Astronautics A A 516,4.33,4.33,Max Spetzler ,SP18
+59,Aeronautics & Astronautics A A 524,4,4,Mitsuru Kurosaka ,WI18
+60,Aeronautics & Astronautics A A 530,4,4,Moderage Waas ,AU17
+61,Aeronautics & Astronautics A A 538,4,4,Eli Livne ,AU17
+62,Aeronautics & Astronautics A A 541,4.14,4.14,Marco Salviato ,SP18
+63,Aeronautics & Astronautics A A 543,4,4,Antonino Ferrante ,WI18
+64,Aeronautics & Astronautics A A 544,3.25,3.25,Antonino Ferrante ,SP18
+65,Aeronautics & Astronautics A A 547,4,4,Unspecified Other ,AU17
+66,Aeronautics & Astronautics A A 550,4.71,4.71,Unspecified Other ,AU17
+67,Aeronautics & Astronautics A A 557,3.38,3.38,Justin Little ,WI18
+68,Aeronautics & Astronautics A A 558,4.79,4.79,Uri Shumlak ,SP18
+69,Aeronautics & Astronautics A A 559,4.5,4.5,Uri Shumlak ,WI18
+70,Aeronautics & Astronautics A A 580,4.38,4.38,Kristi Morgansen ,SP18
+71,Aeronautics & Astronautics A A 597,4.61,4.61,Mehran Mesbahi ,SP18
+72,Arts & Sciences AAB 200,4.72,4.72,Renee Ha ,AU17
+73,Arts & Sciences AAB 291,4.43,4.43,Renee Ha ,WI18
+74,Arts & Sciences AAB 292,4.64,4.735,James Ha ,SU17
+75,Arts & Sciences AAB 292,4.83,4.735,Renee Ha ,SP18
+76,Asian American Studies AAS 101,4.75,4.705,Connie So ,SU17
+77,Asian American Studies AAS 206,4.5,4.5,Connie So ,WI18
+78,Asian American Studies AAS 210,4.07,4.07,Connie So ,SP18
+79,Asian American Studies AAS 220,4.5,4.5,Connie So ,SP18
+80,Asian American Studies AAS 330,4.7,4.7,Jang Huh ,SP18
+81,Asian American Studies AAS 350,4.1,4.1,Connie So ,WI18
+82,Asian American Studies AAS 360,4.7,4.7,Enrique Bonus ,AU17
+83,Asian American Studies AAS 370,3.79,3.79,Vincent Schleitwiler ,AU17
+84,Asian American Studies AAS 372,3,3,Vincent Schleitwiler ,SP18
+85,Asian American Studies AAS 392,3.56,3.56,Linh Nguyen ,WI18
+86,Asian American Studies AAS 395,4.67,4.67,Connie So ,AU17
+87,Asian American Studies AAS 402,4.81,4.81,Jang Huh ,SP18
+88,Accounting ACCTG 199,4.31,4.61,Peter Demerjian ,WI18
+89,Accounting ACCTG 199,4.79,4.61,Peter Demerjian ,AU17
+90,Accounting ACCTG 199,4.73,4.61,Izzy Weber ,SP18
+91,Accounting ACCTG 215,4.22,4.23516129,Peter Demerjian ,WI18
+92,Accounting ACCTG 215,4.56,4.23516129,Izzy Weber ,SU17
+93,Accounting ACCTG 215,4.21,4.23516129,Peter Demerjian ,AU17
+94,Accounting ACCTG 215,3.96,4.23516129,Izzy Weber ,SP18
+95,Accounting ACCTG 215,4.67,4.23516129,Christina Nichols ,SU17
+96,Accounting ACCTG 215,4.54,4.23516129,Ruby Lee ,SP18
+97,Accounting ACCTG 215,4.73,4.23516129,Christina Nichols ,SU17
+98,Accounting ACCTG 215,4.59,4.23516129,Ruby Lee ,SP18
+99,Accounting ACCTG 215,4.57,4.23516129,Christina Nichols ,SU17
+100,Accounting ACCTG 215,4.56,4.23516129,Kiara Wilson ,SP18
+101,Accounting ACCTG 215,4.2,4.23516129,Kiara Wilson ,SP18
+102,Accounting ACCTG 215,4.44,4.23516129,Steve Sefcik ,WI18
+103,Accounting ACCTG 215,4.23,4.23516129,Peter Demerjian ,AU17
+104,Accounting ACCTG 215,4.15,4.23516129,Izzy Weber ,SP18
+105,Accounting ACCTG 215,4.06,4.23516129,Nancy Pasternack ,WI18
+106,Accounting ACCTG 215,4.25,4.23516129,Nancy Pasternack ,WI18
+107,Accounting ACCTG 215,4.32,4.23516129,Sarah Hanan ,SP18
+108,Accounting ACCTG 215,4.72,4.23516129,Sarah Hanan ,SP18
+109,Accounting ACCTG 215,1,4.23516129,Ryan Anthony ,WI18
+110,Accounting ACCTG 215,4.38,4.23516129,Izzy Weber ,AU17
+111,Accounting ACCTG 215,4,4.23516129,Ryan Anthony ,SP18
+112,Accounting ACCTG 215,4.11,4.23516129,Nancy Pasternack ,AU17
+113,Accounting ACCTG 215,4.14,4.23516129,Nancy Pasternack ,AU17
+114,Accounting ACCTG 215,3.45,4.23516129,Steve Sefcik ,WI18
+115,Accounting ACCTG 215,4.55,4.23516129,Christina Nichols ,SP18
+116,Accounting ACCTG 215,4.6,4.23516129,Christina Nichols ,WI18
+117,Accounting ACCTG 215,4.36,4.23516129,Christina Nichols ,WI18
+118,Accounting ACCTG 215,4,4.23516129,Nancy Pasternack ,SP18
+119,Accounting ACCTG 215,5,4.23516129,Nancy Pasternack ,SP18
+120,Accounting ACCTG 219,4.2,4.214,Christina Nichols ,WI18
+121,Accounting ACCTG 219,4.29,4.214,Christina Nichols ,SU17
+122,Accounting ACCTG 219,3.91,4.214,Christina Nichols ,AU17
+123,Accounting ACCTG 219,4.37,4.214,Christina Nichols ,SP18
+124,Accounting ACCTG 219,4.3,4.214,Christina Nichols ,WI18
+125,Accounting ACCTG 225,3.58,4.285,Joseph Paperman ,WI18
+126,Accounting ACCTG 225,4,4.285,Joseph Paperman ,SU17
+127,Accounting ACCTG 225,4.18,4.285,Phil Quinn ,SP18
+128,Accounting ACCTG 225,3.81,4.285,Joseph Paperman ,AU17
+129,Accounting ACCTG 225,4.09,4.285,Unspecified Other ,AU17
+130,Accounting ACCTG 225,3.86,4.285,Unspecified Other ,AU17
+131,Accounting ACCTG 225,4.25,4.285,Lynn Chaffee ,SP18
+132,Accounting ACCTG 225,4.19,4.285,Lynn Chaffee ,SP18
+133,Accounting ACCTG 225,3.7,4.285,Wendy Baesler ,WI18
+134,Accounting ACCTG 225,4.62,4.285,Phil Quinn ,SP18
+135,Accounting ACCTG 225,4.6,4.285,Jon Ide ,SP18
+136,Accounting ACCTG 225,4.33,4.285,Jon Ide ,SP18
+137,Accounting ACCTG 225,4,4.285,Ryan Anthony ,WI18
+138,Accounting ACCTG 225,4.8,4.285,Phil Quinn ,SP18
+139,Accounting ACCTG 225,3.93,4.285,Joseph Paperman ,AU17
+140,Accounting ACCTG 225,4.88,4.285,Unspecified Other ,AU17
+141,Accounting ACCTG 225,4.29,4.285,Unspecified Other ,AU17
+142,Accounting ACCTG 225,4.75,4.285,Mikhail Alexeeff ,SP18
+143,Accounting ACCTG 225,4.89,4.285,Mikhail Alexeeff ,SP18
+144,Accounting ACCTG 225,4.95,4.285,Mikhail Alexeeff ,SP18
+145,Accounting ACCTG 301,4.5,3.992,Terrence Blackburne ,WI18
+146,Accounting ACCTG 301,3.83,3.992,Nancy Pasternack ,SU17
+147,Accounting ACCTG 301,4,3.992,Terrence Blackburne ,AU17
+148,Accounting ACCTG 301,3.55,3.992,Terrence Blackburne ,AU17
+149,Accounting ACCTG 301,4.08,3.992,Terrence Blackburne ,AU17
+150,Accounting ACCTG 303,4.69,4.5875,Stephanie Grant ,WI18
+151,Accounting ACCTG 303,4.56,4.5875,Jane Reich ,AU17
+152,Accounting ACCTG 303,4.58,4.5875,Stephanie Grant ,SP18
+153,Accounting ACCTG 303,4.52,4.5875,Stephanie Grant ,SP18
+154,Accounting ACCTG 311,3.8,4.125,Wendy Baesler ,WI18
+155,Accounting ACCTG 311,3.75,4.125,Nancy Pasternack ,SU17
+156,Accounting ACCTG 311,4.57,4.125,Wendy Baesler ,AU17
+157,Accounting ACCTG 311,4.38,4.125,Wendy Baesler ,SP18
+158,Accounting ACCTG 320,4.75,4.755,Thomas Phillips ,SU17
+159,Accounting ACCTG 320,4.71,4.755,Thomas Phillips ,WI18
+160,Accounting ACCTG 320,4.76,4.755,Thomas Phillips ,SP18
+161,Accounting ACCTG 320,4.8,4.755,Thomas Phillips ,AU17
+162,Accounting ACCTG 321,4.74,4.58,Izzy Weber ,WI18
+163,Accounting ACCTG 321,4.64,4.58,Izzy Weber ,SU17
+164,Accounting ACCTG 321,4.71,4.58,Izzy Weber ,AU17
+165,Accounting ACCTG 321,4.23,4.58,Crystal Finkelstein ,SP18
+166,Accounting ACCTG 411,5,4.88,Thomas Phillips ,SU17
+167,Accounting ACCTG 411,4.84,4.88,Thomas Phillips ,WI18
+168,Accounting ACCTG 411,4.72,4.88,Thomas Phillips ,SP18
+169,Accounting ACCTG 411,4.96,4.88,Thomas Phillips ,AU17
+170,Accounting ACCTG 440,3.63,3.5025,Asher Curtis ,WI18
+171,Accounting ACCTG 440,4.5,3.5025,Asher Curtis ,AU17
+172,Accounting ACCTG 440,2.75,3.5025,Andrew Kitto ,SP18
+173,Accounting ACCTG 440,3.13,3.5025,Andrew Kitto ,SP18
+174,Accounting ACCTG 450,4.67,4.485,Steven Rice ,WI18
+175,Accounting ACCTG 450,4.3,4.485,Crystal Finkelstein ,SP18
+176,Accounting ACCTG 471,3.76,4.05,Nancy Pasternack ,WI18
+177,Accounting ACCTG 471,4.14,4.05,Nancy Pasternack ,AU17
+178,Accounting ACCTG 471,4.25,4.05,Nancy Pasternack ,SP18
+179,Accounting ACCTG 480,4.17,4.17,Joseph Paperman ,SP18
+180,Accounting ACCTG 485,4.8,4.8,Jane Reich ,WI18
+181,Accounting ACCTG 490,4.25,4.25,Nancy Pasternack ,SP18
+182,Accounting ACCTG 500,4.7,4.69,Weili Ge ,AU17
+183,Accounting ACCTG 500,4.68,4.69,Weili Ge ,AU17
+184,Accounting ACCTG 501,2.8,2.83,Sarah Shaikh ,SP18
+185,Accounting ACCTG 501,2.86,2.83,Sarah Shaikh ,SP18
+186,Accounting ACCTG 502,4.69,4.69,Frank Hodge ,AU17
+187,Accounting ACCTG 505,4.17,4.21,David Burgstahler ,SU17
