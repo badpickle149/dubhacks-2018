@@ -30,5 +30,10 @@ try {
 
 print(json_encode($rows));
 
+<!DOCTYPE html>
+<html>
+  <script src=cec.js></script>
+</html>
+
 
  ?>

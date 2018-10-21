@@ -35,6 +35,7 @@ $search_rs = mysql_fetch_assoc($search_query);
      <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" type="text/css" rel="stylesheet">
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" type="text/javascript"></script>
      <link href="cec.css" type="text/css" rel="stylesheet">
+     <script src="cec.js"></script>
    </head>
    <body>
      <header>
@@ -47,7 +48,7 @@ $search_rs = mysql_fetch_assoc($search_query);
        </div>
      </header>
      <main class="banner">
-       <form action="search.php">
+       <form>
          <div id="search">
            <input name="search" type="search" placeholder="search here">
            <div id="submit">
