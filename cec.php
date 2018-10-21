@@ -37,31 +37,29 @@ $search_rs = mysql_fetch_assoc($search_query);
      <link href="cec.css" type="text/css" rel="stylesheet">
    </head>
    <body>
-
-       <header>
-         <div id="top" class="banner">
-           <div id="uw-logo-wrapper">
-             <img id="uw-logo" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07214356/Signature_Left_White.png">
+     <header>
+       <div id="top" class="banner">
+         <div id="uw-logo-wrapper">
+           <img id="uw-logo" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07214356/Signature_Left_White.png">
+         </div>
+       </div>
+       <div id="bottom" class="banner">
+       </div>
+     </header>
+     <main class="banner">
+       <form action="search.php">
+         <div id="search">
+           <input name="search" type="search" placeholder="search here">
+           <div id="submit">
+             <input type="submit">
            </div>
          </div>
-         <div id="bottom" class="banner">
-         </div>
-         <?php echo $error_msg; ?>
-       </header>
-       <main class="banner">
-         <form action="cec.php">
-           <div id="search">
-             <input name="search" type="search" placeholder="search here">
-             <div id="submit">
-               <input type="submit">
-             </div>
-           </div>
-           <select name="filter" class="form-control">
-             <option>1</option>
-             <option>2</option>
-             <option>3</option>
-           </select>
-         </form>
-       </main>
+         <select name="filter" class="form-control">
+           <option>1</option>
+           <option>2</option>
+           <option>3</option>
+         </select>
+       </form>
+     </main>
    </body>
  </html>
