@@ -1,5 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans');
+
+body {
+  width: 100%;
+  font-family: 
+}
+
+header {
+  width: 100%;
+}
+
 .banner {
   width: 100%;
+  position:absolute;
+  left:0;
+  right:0;
+}
+
+#top {
+  background-color: #444444;
+  height: 6%;
+}
+
+#bottom {
+  background-color: #4B2F83;
+  height: 15%;
+  z-index: -1;
 }
 
 
