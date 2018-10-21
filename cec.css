@@ -2,7 +2,7 @@
 
 body {
   width: 100%;
-  font-family: 
+  font-family: 'Encode Sans', sans-serif;
 }
 
 header {
@@ -17,16 +17,25 @@ header {
 }
 
 #top {
-  background-color: #444444;
-  height: 6%;
+  background-color: #4B2F83;
+  height: 9%;
+  z-index: 1;
 }
 
 #bottom {
-  background-color: #4B2F83;
+  background-color: #444444;
   height: 15%;
-  z-index: -1;
 }
 
+#uw-logo-wrapper {
+  vertical-align: middle;
+}
+
+#uw-logo {
+  width: 40%;
+  min-width: 200px;
+  z-index: 2;
+}
 
 /*
 form {
