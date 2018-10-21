@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-family: 'Encode Sans', sans-serif;
+}
+
+/******************************************************************************************
+
+header styles
+
+*******************************************************************************************/
+
+header {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+}
+
+#top {
+  background-color: #4B2F83;
+  min-height: 60px;
+  height: 9%;
+  z-index: 1;
+}
+
+#bottom { /* nav bar */
+  background-color: #444444;
+  box-shadow: 0em 100px black;
+  min-height: 50px;
+  height: 15%;
+}
+
+#uw-logo-wrapper {
+  vertical-align: middle;
+}
+
+#uw-logo {
+  padding-left: 1em;
+  padding-top: 1em;
+  width: 25%;
+  min-width: 200px;
+  z-index: 2;
+}
+
+/***************************************************************************
+
+main styles
+
+****************************************************************************/
+
+main {
+  display: flex;
+  align-items: center;
+  min-height: 600px;
+  background-image: url("imgs/purple-bg.png");
+}
+
+/* form styles */
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+#search {
+  min-height: 35px;
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#search > input {
+  width: 100%;
+}
+
+#submit {
+  min-width: 20px;
+  display: flex;
+}
+
+#submit button {
+  min-width: 5px;
+}
+
+select {
+  width: 50% !important;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*
+form {
+  display: flex;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+}
+*/
+
+
+
+h1 {
+  color: white;
+
+}
+main {
+  flex-direction: column;
+}
+
+#search {
+  /*text-align: center; */
+}
+
+bold {
+  font-weight: bold;
+}
