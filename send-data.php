@@ -16,7 +16,7 @@ if (($handle = fopen($err_upTmpName, "r")) !== FALSE) {
 
 			// $data[0] = first name; $data[1] = last name; $data[2] = email; $data[3] = phone - remember to change to appropriate fields
 			/*********************************************************************************************************************/
-			if() {
+			if(!empty($data[0]) && !empty($data[1]) && !empty($data[2]) && !empty($data[3]) && !empty($data[4]) && !empty($data[5])) {
         
       }
 
